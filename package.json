@@ -15,7 +15,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.0.tar.gz",
     "react-native-web": "^0.11.4",
     "react-native-webview": "^6.9.0",
-    "release-it": "^12.4.3"
+    "release-it": "^15.6.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^6.0.0"
